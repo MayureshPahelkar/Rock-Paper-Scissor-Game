@@ -1,0 +1,1 @@
+Create a Rock-Paper-Scissors game using HTML, CSS, and JavaScript where players compete against a computer-generated move. The game tracks and displays scores for both the player and computer, announcing the winner after each round.
